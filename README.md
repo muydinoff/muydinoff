@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 
+i'm currenlty learning programming on hexlet.io
+
+
+
 
 <!--
 **muydinoff/muydinoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
